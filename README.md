@@ -1,3 +1,2 @@
 
-hello,this is a project to learn git!
-
+hello~how are you!
